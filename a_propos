@@ -8,6 +8,15 @@
 
 <body>
     <!-- Contenu de la page -->
+        <p> Issu d'une courte carrière de mécanicien auto/moto, je me converti au développement web. 
+        <br> Actuellement sur les bases de l'HTML5 et du CSS3, j'ai comme objectif d'atteindre le titre de <mark> développeur FullStack </mark>. </p>
+    <h2> Mes futures services </h2>
+    <ul>
+        <li> Web Master </li>
+        <li> Développeur d'application de bureau </li>
+        <li> Développeur d'application Android et IOS </li>
+        <li> Développeur de jeux vidéos </li>
+    </ul>
 </body>
 
 </html>
