@@ -1,0 +1,17 @@
+ h1{
+    color: cadetblue ;
+ }
+ /* Petit commentaire pas piqué des annetons
+ comme dirais notre chère Amixem */
+ p{
+    color: black; font-size: large;
+ }
+ .ma_classe{
+    color:limegreen
+ }
+ a{
+    color: black;
+ }
+ .wake{
+    color: #A5B4FC;
+ }
