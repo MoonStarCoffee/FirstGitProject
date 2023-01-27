@@ -1,17 +1,39 @@
  h1{
-    color: cadetblue ;
+   font-family: 'Playfair Display', serif; font-size: 2.8em ; font-style: unset ;
+    text-align: center; color: rgba(255, 255, 255, 0.861);
+    background-image:url("images/background.jpg");
+    padding: 125px;
+     background-attachment:fixed ;
+      background-size: cover;
+      opacity:0.8 ;
  }
  /* Petit commentaire pas piqué des annetons
  comme dirais notre chère Amixem */
- p{
-    color: black; font-size: large;
+ h2{
+   font-family: "Anton", sans serif; font-size: 2em; text-align: center; color: rgba(0, 0, 0, 0.687);
  }
- .ma_classe{
-    color:limegreen
+ h3{
+   font-family: "Anton"; font-size: 1.5em; font-weight: 200;
+ }
+ p{
+   font-family: "Open Sans", sans-serif; font-size: 1.3em ; color: black;
+ }
+ em{
+   font-style: normal ;font-weight: 700
+   ;
  }
  a{
-    color: black;
+   font-family: "Open Sans"; font-size: 1em; text-decoration: none;
  }
  .wake{
-    color: #A5B4FC;
+    color: cadetblue;
  }
+ ul{
+   font-size: 1.3em;
+ }
+ body{
+   background:linear-gradient(to right,#373B44,#4286f4) ;
+ }
+.lienspage{
+   color: #fffffff5;
+}
