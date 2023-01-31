@@ -13,27 +13,33 @@
    font-family: "Anton", sans serif; font-size: 2em; text-align: center; color: rgba(0, 0, 0, 0.687);
  }
  h3{
-   font-family: "Anton"; font-size: 1.5em; font-weight: 200;
+   font-family: "Anton"; font-size: 1.2em; font-weight: 200; text-decoration: underline;
  }
  p{
-   font-family: "Open Sans", sans-serif; font-size: 1.3em ; color: black;
+   font-family: "Open Sans", sans-serif; font-size: 1em ; color: black;
  }
  em{
-   font-style: normal ;font-weight: 700
+   font-style:italic ;font-weight: 700
    ;
  }
  a{
    font-family: "Open Sans"; font-size: 1em; text-decoration: none;
  }
- .wake{
+ .couleur{
     color: cadetblue;
  }
  ul{
-   font-size: 1.3em;
+   font-size: 1em;
  }
  body{
    background:linear-gradient(to right,#373B44,#4286f4) ;
  }
 .lienspage{
    color: #fffffff5;
+}
+.allignement_a_propos{text-align: center;
+  
+}
+nav{text-align: center; text-decoration: underline;
+
 }
